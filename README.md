@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**abigaile-d/abigaile-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a book recommender system and a language translation project
+- 🌱 I’m currently studying cloud computing (AWS) and more deep learning algos
+- 👯 I’m looking to collaborate on any deep learning / computer vision projects
+- 📫 How to reach me: linkedin.com/in/abigaile-d
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
