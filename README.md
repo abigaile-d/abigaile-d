@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Abby 👋
 
 - 🔭 I’m currently working on a book recommender system and a language translation project
 - 🌱 I’m currently studying cloud computing (AWS) and more deep learning algos
